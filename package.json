@@ -3,5 +3,8 @@
   "version": "0.1.0",
   "repository": "git@github.com:varbrad/crud-redux.git",
   "author": "Brad Davies <brad.davies@drpgroup.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^5.5.0"
+  }
 }
