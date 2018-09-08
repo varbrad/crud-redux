@@ -1,0 +1,8 @@
+{
+  "name": "crud-redux",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:varbrad/crud-redux.git",
+  "author": "Brad Davies <brad.davies@drpgroup.com>",
+  "license": "MIT"
+}
